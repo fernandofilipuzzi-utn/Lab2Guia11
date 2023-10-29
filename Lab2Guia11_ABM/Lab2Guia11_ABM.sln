@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo_agencia_autos", "Ejemplo_agencia_autos\Ejemplo_agencia_autos.csproj", "{AD2B35D3-D573-4DC2-9083-27D464197980}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo_servicio_autos", "Ejemplo_servicio_autos\Ejemplo_servicio_autos.csproj", "{05B95A81-99BF-4589-AB2A-3AD9443FC563}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD2B35D3-D573-4DC2-9083-27D464197980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD2B35D3-D573-4DC2-9083-27D464197980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD2B35D3-D573-4DC2-9083-27D464197980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD2B35D3-D573-4DC2-9083-27D464197980}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05B95A81-99BF-4589-AB2A-3AD9443FC563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05B95A81-99BF-4589-AB2A-3AD9443FC563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05B95A81-99BF-4589-AB2A-3AD9443FC563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05B95A81-99BF-4589-AB2A-3AD9443FC563}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {446B53D6-4DF8-4693-9E38-8715FB6D11C7}
+	EndGlobalSection
+EndGlobal
